@@ -1,0 +1,15 @@
+C:\Users\work\source\repos\StormIsComing\StormIsComing\bin\Debug\net6.0\StormIsComing.exe
+C:\Users\work\source\repos\StormIsComing\StormIsComing\bin\Debug\net6.0\StormIsComing.deps.json
+C:\Users\work\source\repos\StormIsComing\StormIsComing\bin\Debug\net6.0\StormIsComing.runtimeconfig.json
+C:\Users\work\source\repos\StormIsComing\StormIsComing\bin\Debug\net6.0\StormIsComing.dll
+C:\Users\work\source\repos\StormIsComing\StormIsComing\bin\Debug\net6.0\StormIsComing.pdb
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.csproj.AssemblyReference.cache
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.AssemblyInfoInputs.cache
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.AssemblyInfo.cs
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.csproj.CoreCompileInputs.cache
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.dll
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\refint\StormIsComing.dll
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.pdb
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\StormIsComing.genruntimeconfig.cache
+C:\Users\work\source\repos\StormIsComing\StormIsComing\obj\Debug\net6.0\ref\StormIsComing.dll
